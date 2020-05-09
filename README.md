@@ -11,3 +11,6 @@ Made by: lobster/loster31345 from WiAD
 ![hide](https://github.com/l0b5ter/COVID19-for-Message-Handler/blob/master/COVID19%20images/2.PNG)
 ![hide](https://github.com/l0b5ter/COVID19-for-Message-Handler/blob/master/COVID19%20images/21.PNG)
 
+
+Add text2png?
+
